@@ -1,0 +1,19 @@
+{
+	"Coach": "Karthik",
+	"Captain": "Selvam",
+	"Manager": "Arun",
+	"TeamPlayers": {
+	{
+		"Name1": "Raja",
+		"Name2": "Sasi",
+		"Name3": "Prakash",
+		
+	}
+	{
+		"Name4":"Guru",
+		"Name5":"Dinesh",
+		"Name6":"Kiran",
+		
+		}
+	}
+}
